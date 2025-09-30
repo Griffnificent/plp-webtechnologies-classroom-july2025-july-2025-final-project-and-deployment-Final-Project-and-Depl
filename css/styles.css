@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #222;
+  color: #fff;
+  padding: 1rem;
+}
+
+header h1 {
+  display: inline;
+}
+
+nav ul {
+  list-style: none;
+  float: right;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: #f4f4f4;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 10px 20px;
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.divisions {
+  padding: 2rem;
+}
+
+.cards {
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+}
+
+.card {
+  padding: 20px;
+  background: #eee;
+  border-radius: 5px;
+  flex: 1;
+  text-align: center;
+}
